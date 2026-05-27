@@ -11,10 +11,6 @@ Designed to manage staff operations, member activity, and book inventory from a 
 - Staff admin controls for managing books and members
 - Simple menu-driven console interface
 
-## 🛠️ Built With
-
-- Java
-- IntelliJ IDEA
 
 ## ▶️ How to Run
 
